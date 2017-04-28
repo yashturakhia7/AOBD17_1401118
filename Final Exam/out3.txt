@@ -1,0 +1,9 @@
+you chose
+front end developer
+
+Suggested skills for the user
+HTML
+CSS
+Photoshop
+Jquery
+GIT
